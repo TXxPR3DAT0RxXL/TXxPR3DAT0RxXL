@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,github,py,bash&theme=dark)](https://skillicons.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=txxpr3dat0rxxl&label=Profile%20views&color=FF0000&style=plastic" alt="txxpr3dat0rxxl" /> </p>
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TXxPR3DAT0RxXL&theme=hacker&border_radius=50)](https://git.io/streak-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=txxpr3dat0rxxl&label=Profile%20views&color=00FF00&style=plastic" alt="txxpr3dat0rxxl" /> </p>
