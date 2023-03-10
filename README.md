@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello 🖖, I'm TXxPR3DAT0RxXL</h1>  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=txxpr3dat0rxxl&label=Profile%20views&color=00ff88&style=plastic" alt="txxpr3dat0rxxl" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=30&duration=2000&pause=1&color=F70000&multiline=true&repeat=false&width=550&height=325&lines=%2Fbin%2Fbash+-i;%24whoami;TXxPR3DAT0RxXL;%24pwd;%2Froot;%24cat+root.txt;flag%7BY0U+G0T+M3%7D;%24cat+.secrets.txt;what+they+don't+see+will+hurt+them)](https://git.io/typing-svg)
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="200" height="200"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=txxpr3dat0rxxl&label=Profile%20views&color=FF0000&style=plastic" alt="txxpr3dat0rxxl" /> </p>
