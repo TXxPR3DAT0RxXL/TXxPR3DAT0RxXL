@@ -16,4 +16,18 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=30&duration=2000&pause=1&color=F70000&multiline=true&repeat=false&width=550&height=325&lines=%2Fbin%2Fbash+-i;%24whoami;TXxPR3DAT0RxXL;%24pwd;%2Froot;%24cat+root.txt;flag%7BY0U+G0T+M3%7D;%24cat+.secrets.txt;what+they+don't+see+will+hurt+them)](https://git.io/typing-svg)
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="200" height="200"/> </a> </p>
+
+## What i'm doing right now?   
+
+- I'm currently learning linux as you can see! 🔥  
+- Love's CTF's espacily THM...  
+- My ultimate goal is to become a certified Penetration Tester, with the Pentest+ and OSCP certifications under my belt.   
+- I'm always looking to improve my skills and learn new things, so feel free to reach out and connect! 
+
+"I want to be the person who thinks like a hacker, but uses that knowledge to protect systems and data. The thrill of breaking into a system ethically and helping to fix vulnerabilities is what drives me towards my goal of becoming a successful penetration tester."
+
+![image](https://user-images.githubusercontent.com/127505784/224426988-3344458f-e0e4-4e68-914a-b9be6019e1a8.png) ![image](https://user-images.githubusercontent.com/127505784/224427065-986b3283-f452-4f08-ba81-db9b8d134f2a.png) ![image](https://user-images.githubusercontent.com/127505784/224427106-090d91e6-4ef1-460b-8c91-f298dfd719e0.png) ![image](https://user-images.githubusercontent.com/127505784/224427189-378a710d-cb4c-430b-bcd3-2fa57d9281f6.png) ![image](https://user-images.githubusercontent.com/127505784/224427304-022a42c3-fc06-429b-8c49-828e1909297a.png) ![image](https://user-images.githubusercontent.com/127505784/224427400-ca9bbf93-37f3-4736-b74a-0cd3e2ee8a6b.png) ![image](https://user-images.githubusercontent.com/127505784/224427454-cacef9bd-d6e2-4511-9d11-fea2407adef6.png) ![image](https://user-images.githubusercontent.com/127505784/224427515-f8eb7a2d-515b-4698-a721-e42b9090ae5f.png) ![image](https://user-images.githubusercontent.com/127505784/224427556-17b0f3ed-363e-4475-9e58-1a99b8d2c03b.png) ![image](https://user-images.githubusercontent.com/127505784/224427588-450630ec-d1bc-4bca-a9c2-9ffeb6fd3fb4.png) ![image](https://user-images.githubusercontent.com/127505784/224427614-f7f97fe5-3d78-436f-a223-8d07e37afe49.png)    
+
+![image](https://user-images.githubusercontent.com/127505784/224428245-513f9ac2-c25f-48a4-9839-0c144c5d706c.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=txxpr3dat0rxxl&label=Profile%20views&color=FF0000&style=plastic" alt="txxpr3dat0rxxl" /> </p>
