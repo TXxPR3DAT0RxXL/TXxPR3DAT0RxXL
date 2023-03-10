@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=30&duration=2000&pause=1&color=00FF00&multiline=true&repeat=false&width=550&height=325&lines=%2Fbin%2Fbash+-i;%24whoami;TXxPR3DAT0RxXL;%24pwd;%2Froot;%24cat+root.txt;flag%7BY0U+G0T+M3%7D;%24cat+.secrets.txt;what+they+don't+see+will+hurt+them)](https://git.io/typing-svg)
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="200" height="200"/> </a> </p>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img 
+<img align="right" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" />
 
 ----
 
@@ -40,5 +41,11 @@ Here are some ideas to get you started:
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXxPR3DAT0RxXL&show_icons=true&text_color=00FF00&title_color=00FF00&icon_color=00FF00&border_color=00FF00&border_radius=50&bg_color=000000)
 [![GitHub Streak](https://streak-stats.demolab.com?user=TXxPR3DAT0RxXL&theme=hacker&border_radius=50)](https://git.io/streak-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=txxpr3dat0rxxl&label=Profile%20views&color=00FF00&style=plastic" alt="txxpr3dat0rxxl" /> </p>
+  
+  ---
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=TXxPR3DAT0RxXL&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=txxpr3dat0rxxl&label=Profile%20views&color=00FF00&&style=plastic" alt="txxpr3dat0rxxl" /> </p>
