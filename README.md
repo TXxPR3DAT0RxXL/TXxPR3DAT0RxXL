@@ -13,7 +13,7 @@
 # What i'm doing right now?   
 
 - I'm currently learning linux as you can see! 🥋  
-- Love's CTF's espacily THM... 🚩  
+- Love's CTF's especially THM... 🚩  
 - My ultimate goal is to become a certified Penetration Tester, with the Pentest+ and OSCP certifications under my belt. 🧰   
 - I'm always looking to improve my skills and learn new things, so feel free to reach out and connect! 🤗  
 
