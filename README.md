@@ -27,7 +27,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TXxPREDATORxXL.png" alt="TryHackMe">
+![image](https://user-images.githubusercontent.com/127505784/231243942-5dba8147-0afd-431d-bdd6-aca5f07b1a73.png)
 
 ---
 
